@@ -3,7 +3,7 @@
 <p align="center">I am passionate about building scalable and maintainable systems, leveraging modern software design principles. With practical experience in ASP.NET Core, design patterns, and advanced architectural frameworks, I am dedicated to delivering high-quality backend solutions.</p>
 
 ### 🔭 Skills & Expertise:
- - **Strong understanding of ASP.NET Core** for building web applications and APIs.
+ - Strong understanding of **ASP.NET Core** for building web applications and APIs.
  - Knowledge of **Domain-Driven Design (DDD)** principles, using **tactical DDD patterns** to model business domains.
  - Proficient with **CQRS (Command Query Responsibility Segregation)** for structuring systems.
  - Hands-on experience with implementing design patterns like **Mediator, Unit of Work, and the Service Repository pattern**.
