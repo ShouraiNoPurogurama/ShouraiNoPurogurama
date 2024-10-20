@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Nhat Anh👋</h1>
+<h1 align="center">Hi, I'm Nhat Anh <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1>
 <h3 align="center">Backend Developer | Specializing in ASP.NET Core.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
