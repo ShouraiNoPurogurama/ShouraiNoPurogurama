@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Nhat Anh👋</h1>
 <h3 align="center">Backend Developer | Specializing in ASP.NET Core.</h3>
-<p align="center">I am passionate about building scalable and maintainable systems, leveraging modern software design principles. With practical experience in ASP.NET Core, design patterns, and advanced architectural frameworks, I am dedicated to delivering high-quality backend solutions.</p>
 
 ### 🔭 Skills & Expertise:
  - Strong understanding of **ASP.NET Core** for building web applications and APIs.
