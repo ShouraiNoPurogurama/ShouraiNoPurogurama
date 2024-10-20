@@ -1,22 +1,13 @@
 <h1 align="center">Hi, I'm Nhat Anh👋</h1>
 <h3 align="center">Backend Developer | Specializing in ASP.NET Core.</h3>
 
-### 🔭 Skills & Expertise:
- - Strong understanding of **ASP.NET Core** for building web applications and APIs.
- - Knowledge of **Domain-Driven Design (DDD)** principles, using **tactical DDD patterns** to model business domains.
- - Proficient with **CQRS (Command Query Responsibility Segregation)** for structuring systems.
- - Hands-on experience with implementing design patterns like **Mediator, Unit of Work, and the Service Repository pattern**.
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-### 📝 Architecture Patterns:
- -   Familiar with **Clean Architecture**, ensuring separation of concerns and maintainable codebases.
- - Worked on **Modular Monolith Architecture** to build scalable and modular systems.
- - Experience with **Vertical Slice Architecture** to structure applications by feature.
-
-### ⚡ Databases & Messaging:
- - Proficient with **PostgreSQL** and **MSSQL** for relational database management.
- - Implemented caching mechanisms using **Redis**.
- - Knowledge of **RabbitMQ** and **MassTransit** for message-based communication in microservices.
- - Real-time communication with **SignalR** for web applications.
+## 💫 About Me :
+- 🔭 I’m a **Backend Developer** at AmazingTech, **Leader of a team focused on ASP.NET Core to implement Admin use cases for Nong Dan Online** - a project that started in August 2024 that connects farm managers and customers, ensuring transparency in the agricultural supply chain and addressing the demand for clean, safe food.
+- 🌱 I have expertise in **Domain-Driven Design (DDD)**, **CQRS**, **Clean Architecture** and **Modular Monolith Architecture**.
+- 💬 Feel free to ask me about implementing design patterns like Mediator, Unit of Work, and Service Repository.
+- 📫 How to reach me: Check social links below.
 
 <h2>💻 Tech Stack:</h2>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
@@ -55,10 +46,11 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shourainopurogurama&label=Profile%20views&color=0e75b6&style=flat" alt="shourainopurogurama" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/n.a.1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/n.a.1203" height="30" width="40" /></a>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourainopurogurama&label=Profile%20views&color=0e75b6&style=flat" alt="shourainopurogurama" /> </p>
+
 </p>
 
