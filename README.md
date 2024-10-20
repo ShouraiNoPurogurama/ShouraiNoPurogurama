@@ -23,9 +23,14 @@
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="display:inline-block;" />
 </a>
+<br/>
 <a href="https://redis.io/" target="_blank">
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="display:inline-block;" />
 </a>
+<a href="https://www.rabbitmq.com/" target="_blank">
+  <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" style="display:inline-block;" />
+</a>
+<br/>
 <a href="https://firebase.google.com/" target="_blank">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" style="display:inline-block;" />
 </a>
@@ -35,19 +40,18 @@
 <a href="https://learn.microsoft.com/en-us/sql/" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" style="display:inline-block;" />
 </a>
+<br/>
 <a href="https://azure.microsoft.com/en-us/" target="_blank">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" style="display:inline-block;" />
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" style="display:inline-block;" />
 </a>
 <a href="https://www.docker.com/">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </a>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" /></p>
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" />
+</p>
 
 ## 🌐 Connect with me :
 
