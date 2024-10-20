@@ -10,7 +10,7 @@
 - 🔭 I’m a **Backend Developer** at Amazing Tech, currently **leading** a team focused on ASP.NET Core implementing Admin use cases for [Nong Dan Online](https://nongdanonline.vn/):
   >```A project based on Clean Architecture started in August 2024 that connects farm managers and customers to streamline farm operations and animal management.```
 - 🌱 I have expertise in **Domain-Driven Design (DDD)**, **CQRS**, **Clean Architecture** and **Modular Monolith Architecture**.
-- 💬 Feel free to ask me about implementing design patterns like Mediator, Unit of Work, and Service Repository.
+- 💬 Feel free to ask me about implementing design patterns like Mediator, Unit of Work, Proxy and Decorator.
 - 📫 How to reach me: Check social links below.
 
 ## 💻 Tech Stack :
