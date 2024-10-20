@@ -1,26 +1,60 @@
-<h1 align="center">Hi, I'm Nhat Anh</h1>
+<h1 align="center">Hi, I'm Nhat Anh👋</h1>
 <h3 align="center">Backend Developer | Specializing in ASP.NET Core.</h3>
 <p align="center">I am passionate about building scalable and maintainable systems, leveraging modern software design principles. With practical experience in ASP.NET Core, design patterns, and advanced architectural frameworks, I am dedicated to delivering high-quality backend solutions.</p>
 
-<h3>🔭 Skills & Expertise: </h3>
-  - Strong understanding of ASP.NET Core for building web applications and APIs. <br>
-  - Knowledge of <b>Domain-Driven Design (DDD)</b> principles, using <b>tactical DDD patterns</b> to model business domains. <br>
-  - Proficient with <b>CQRS (Command Query Responsibility Segregation)</b> for structuring systems. <br>
-  - Hands-on experience with implementing design patterns like <b>Mediator, Unit of Work, and the Service Repository pattern</b> .
+### 🔭 Skills & Expertise:
+ - **Strong understanding of ASP.NET Core** for building web applications and APIs.
+ - Knowledge of **Domain-Driven Design (DDD)** principles, using **tactical DDD patterns** to model business domains.
+ - Proficient with **CQRS (Command Query Responsibility Segregation)** for structuring systems.
+ - Hands-on experience with implementing design patterns like **Mediator, Unit of Work, and the Service Repository pattern**.
 
-<h3>📝 Architecture Patterns </h3>
-- Familiar with <b>Clean Architecture</b>, ensuring separation of concerns and maintainable codebases. <br>
-- Worked on <b>Modular Monolith Architecture</b> to build scalable and modular systems. <br>
-- Experience with <b>Vertical Slice Architecture</b> to structure applications by feature.**
+### 📝 Architecture Patterns:
+ -   Familiar with **Clean Architecture**, ensuring separation of concerns and maintainable codebases.
+ - Worked on **Modular Monolith Architecture** to build scalable and modular systems.
+ - Experience with **Vertical Slice Architecture** to structure applications by feature.
 
-<h3>⚡Databases & Messaging </h3>
-  - Proficient with <b>PostgreSQL</b> and <b>MSSQL</b> for relational database management. <br>
-  - Implemented caching mechanisms using <b>Redis</b>. <br>
-  - Knowledge of <b>RabbitMQ</b> and <b>MassTransit</b> for message-based communication in microservices. <br>
-  - Real-time communication with <b>SignalR</b> for web applications.
+### ⚡ Databases & Messaging:
+ - Proficient with **PostgreSQL** and **MSSQL** for relational database management.
+ - Implemented caching mechanisms using **Redis**.
+ - Knowledge of **RabbitMQ** and **MassTransit** for message-based communication in microservices.
+ - Real-time communication with **SignalR** for web applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<h2>💻 Tech Stack:</h2>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" style="display:inline-block;" />
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="display:inline-block;" />
+</a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" style="display:inline-block;" />
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="display:inline-block;" />
+</a>
+<a href="https://redis.io/" target="_blank">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="display:inline-block;" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" style="display:inline-block;" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" style="display:inline-block;" />
+</a>
+<a href="https://learn.microsoft.com/en-us/sql/" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" style="display:inline-block;" />
+</a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank">
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" style="display:inline-block;" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" style="display:inline-block;" />
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</a>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourainopurogurama&label=Profile%20views&color=0e75b6&style=flat" alt="shourainopurogurama" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" /></p>
