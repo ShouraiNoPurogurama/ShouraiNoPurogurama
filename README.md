@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 ## 💫 About Me :
-- 🔭 I’m a **Backend Developer** at AmazingTech, **Leader of a team focused on ASP.NET Core implementing Admin use cases for Nong Dan Online** - a project that started in August 2024 that connects farm managers and customers, ensuring transparency in the agricultural supply chain and addressing the demand for clean, safe food.
+- 🔭 I’m a **Backend Developer** at @Amazing Tech, **Leader of a team focused on ASP.NET Core implementing Admin use cases for Nong Dan Online** - a project that started in August 2024 that connects farm managers and customers, ensuring transparency in the agricultural supply chain and addressing the demand for clean, safe food.
 - 🌱 I have expertise in **Domain-Driven Design (DDD)**, **CQRS**, **Clean Architecture** and **Modular Monolith Architecture**.
 - 💬 Feel free to ask me about implementing design patterns like Mediator, Unit of Work, and Service Repository.
 - 📫 How to reach me: Check social links below.
