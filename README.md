@@ -9,7 +9,8 @@
 - 💬 Feel free to ask me about implementing design patterns like Mediator, Unit of Work, and Service Repository.
 - 📫 How to reach me: Check social links below.
 
-<h2>💻 Tech Stack:</h2>
+## 💻 Tech Stack :
+
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" style="display:inline-block;" />
 </a>
@@ -47,7 +48,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" /></p>
-<h3 align="left">Connect with me:</h3>
+
+## 🌐 Connect with me :
+
 <p align="left">
 <a href="https://fb.com/n.a.1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/n.a.1203" height="30" width="40" /></a>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourainopurogurama&label=Profile%20views&color=0e75b6&style=flat" alt="shourainopurogurama" /> </p>
