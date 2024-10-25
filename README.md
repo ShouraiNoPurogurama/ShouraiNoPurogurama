@@ -13,6 +13,7 @@
 - 💬 Feel free to ask me about implementing design patterns like Mediator, Unit of Work, Proxy and Decorator.
 - 📫 How to reach me: Check social links below.
 
+
 ## 💻 Tech Stack :
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
@@ -52,9 +53,8 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </a>
 
-<hr/>
 
-<h3>💳 Github Profile Summary Card</h3>
+## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" />
 </p>
@@ -68,7 +68,7 @@
 </div>
 
 
-<h3>🌐 Connect With Me</h3>
+##  🌐 Connect With Me
 <p align="left">
 <a href="https://fb.com/n.a.1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/n.a.1203" height="30" width="40" /></a>
 </p>
