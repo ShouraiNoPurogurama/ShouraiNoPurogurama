@@ -52,12 +52,16 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </a>
 
-## 💳 Github Profile Summary Card
+<hr/>
+
+<details>
+<summary><h3>💳 Github Profile Summary Card</h3></summary>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" />
 </p>
-
-## 🐍 My Pet
+</details>
+<details>
+ <summary><h3>🐍 My Pet</h3></summary>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShouraiNoPurogurama/ShouraiNoPurogurama/blob/output/github-contribution-grid-snake.svg">
@@ -65,13 +69,16 @@
   <img alt="github contribution grid snake animation" src="https://github.com/ShouraiNoPurogurama/ShouraiNoPurogurama/blob/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+</details>
 
 
-
-## 🌐 Connect with me :
-
+<details>
+<summary><h3>🌐 Connect With Me</h3></summary>
 <p align="left">
 <a href="https://fb.com/n.a.1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/n.a.1203" height="30" width="40" /></a>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourainopurogurama&label=Profile%20views&color=0e75b6&style=flat" alt="shourainopurogurama" /> </p>
-
 </p>
+</details>
+
+<hr/>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourainopurogurama&label=Profile%20views&color=0e75b6&style=flat" alt="shourainopurogurama"/>
