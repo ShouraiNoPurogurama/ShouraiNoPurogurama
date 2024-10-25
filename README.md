@@ -57,6 +57,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" />
 </p>
 
+## 🐍 My Pet
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShouraiNoPurogurama/ShouraiNoPurogurama/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ShouraiNoPurogurama/ShouraiNoPurogurama/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/ShouraiNoPurogurama/ShouraiNoPurogurama/blob/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+
+
 ## 🌐 Connect with me :
 
 <p align="left">
@@ -64,4 +75,3 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourainopurogurama&label=Profile%20views&color=0e75b6&style=flat" alt="shourainopurogurama" /> </p>
 
 </p>
-
