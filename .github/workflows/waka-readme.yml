@@ -4,16 +4,14 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs every 6 hours
-    - cron: "0 */6 * * *" 
+    # runs At minute 0 past every 6th hour.
+    - cron: "0 */6 * * *"
 
 jobs:
   update-readme:
-    name: Waka Metrics
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-       - uses: athul/waka-readme@master # do NOT replace with anything else
-         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
+      - uses: athul/waka-readme@master # this action name
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
