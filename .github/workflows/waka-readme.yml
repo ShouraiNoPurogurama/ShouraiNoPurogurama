@@ -9,20 +9,11 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Waka Metrics
     runs-on: ubuntu-latest
     steps:
        - uses: athul/waka-readme@master # do NOT replace with anything else
          with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
