@@ -59,6 +59,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" />
 </p>
 
+## Waka Dev Metrics
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShouraiNoPurogurama/ShouraiNoPurogurama/blob/output/github-contribution-grid-snake.svg">
