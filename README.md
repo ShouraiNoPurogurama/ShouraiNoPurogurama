@@ -59,7 +59,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" />
 </p>
 
-## Waka Dev Metrics
+## ⏳ Waka Dev Metrics
 <!--START_SECTION:waka-->
 
 ```txt
