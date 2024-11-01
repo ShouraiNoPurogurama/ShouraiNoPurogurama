@@ -57,6 +57,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" />
 </p>
 
+
+### WakaTime Dev Metrics
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## 🌐 Connect with me :
 
 <p align="left">
