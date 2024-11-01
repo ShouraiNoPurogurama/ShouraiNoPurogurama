@@ -55,23 +55,15 @@
 
 
 ## 💳 Github Profile Summary Card
+<div align="center">
+  <a href="https://wakatime.com/@anhtnse">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anhtnse&custom_title=Dev%20Metrics&" alt="⏳Waka Dev Metrics">
+  </a>
+</div>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" />
 </p>
-
-## ⏳ Waka Dev Metrics
-<!--START_SECTION:waka-->
-
-```txt
-C#                        3 hrs 19 mins   ███████████▓░░░░░░░░░░░░░   46.28 %
-YAML                      2 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.02 %
-SQL                       42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-JSON                      40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-Markdown                  7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-```
-
-<!--END_SECTION:waka-->
-
 
 <div align="center">
 <picture>
