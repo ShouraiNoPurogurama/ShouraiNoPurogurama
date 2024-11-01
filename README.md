@@ -56,14 +56,12 @@
 
 ## 💳 Github Profile Summary Card
 <div align="center">
-  <a href="https://wakatime.com/@anhtnse">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anhtnse&custom_title=Dev%20Metrics%20(01%20Nov%202024%20-%20now)" alt="⏳Waka Dev Metrics">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" style="display: inline-block;">
+  <a href="https://wakatime.com/@anhtnse" style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anhtnse&custom_title=Dev%20Metrics%20(01%20Nov%202024%20-%20now)" alt="⏳Waka Dev Metrics">
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourainopurogurama&" alt="shourainopurogurama" />
-</p>
 
 <div align="center">
 <picture>
