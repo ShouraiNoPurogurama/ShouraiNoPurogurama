@@ -19,11 +19,11 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" style="display:inline-block;" />
 </a>
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="display:inline-block;" />
-</a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" style="display:inline-block;" />
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="display:inline-block;" />
 </a>
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="display:inline-block;" />
