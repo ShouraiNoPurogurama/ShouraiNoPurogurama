@@ -7,10 +7,10 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 ## 💫 About Me :
-- 🔭 I’m a **Backend Developer** at Amazing Tech, currently **leading** a team focused on ASP.NET Core implementing Admin use cases for [Nong Dan Online](https://nongdanonline.vn/):
+- 🔭 I have experience working at Amazing Tech as a **Backend Developer**, where i **led** a team focused on ASP.NET Core implementing Admin use cases for [Nong Dan Online](https://nongdanonline.vn/):
   >```A project based on Clean Architecture started in August 2024 that connects farm managers and customers to streamline farm operations and animal management.```
-- 🌱 I have expertise in **Domain-Driven Design (DDD)**, **CQRS**, **Clean Architecture** and **Modular Monolith Architecture**.
-- 💬 Feel free to ask me about implementing design patterns like Mediator, Unit of Work, Proxy and Decorator.
+- 🌱 I have expertise in **Event-Driven Architecture (EDA)**, leveraging **Microservices Architecture (MSA)**, **Modular Monolith Architecture (MMA)**, **Clean Architecture** with **Domain-Driven Design (DDD)**, **CQRS** and the **Event Sourcing pattern**.
+- 💬 Feel free to ask me about implementing design patterns like Mediator, Outbox, Unit of Work, Proxy and Decorator.
 - 📫 How to reach me: Check social links below.
 
 
@@ -36,14 +36,14 @@
   <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" style="display:inline-block;" />
 </a>
 <br/>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" style="display:inline-block;" />
-</a>
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" style="display:inline-block;" />
 </a>
 <a href="https://learn.microsoft.com/en-us/sql/" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" style="display:inline-block;" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" style="display:inline-block;" />
 </a>
 <br/>
 <a href="https://azure.microsoft.com/en-us/" target="_blank">
