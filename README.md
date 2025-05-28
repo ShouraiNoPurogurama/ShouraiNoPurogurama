@@ -29,6 +29,19 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="display:inline-block;" />
 </a>
 <br/>
+<a href="https://platform.openai.com/" target="_blank"> 
+         <img src="https://img.shields.io/badge/OpenAI-%234152D3.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> 
+</a> 
+<a href="https://jupyter.org/" target="_blank"> 
+         <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" /> 
+</a> 
+<a href="https://pytorch.org/" target="_blank"> 
+         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> 
+</a>
+<a href="https://scikit-learn.org/" target="_blank"> 
+         <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /> 
+</a> 
+<br/>
 <a href="https://redis.io/" target="_blank">
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="display:inline-block;" />
 </a>
@@ -52,7 +65,9 @@
 <a href="https://www.docker.com/">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </a>
-
+<a href="https://www.digitalocean.com/" target="_blank"> 
+         <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" style="display:inline-block;" /> 
+</a>
 
 ## 💳 Github Profile Summary Card
 <div align="center">
