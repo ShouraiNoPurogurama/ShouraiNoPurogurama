@@ -29,6 +29,16 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="display:inline-block;" />
 </a>
 <br/>
+<a href="https://ubuntu.com/" target="_blank">
+  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+</a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/yarp/?view=aspnetcore-8.0" target="_blank">
+  <img src="https://img.shields.io/badge/YARP-0078D7?style=for-the-badge&logo=.net&logoColor=white" alt="YARP" />
+</a>
+<a href="https://nginx.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</a>
+<br/>
 <a href="https://platform.openai.com/" target="_blank"> 
          <img src="https://img.shields.io/badge/OpenAI-%234152D3.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> 
 </a> 
@@ -62,11 +72,11 @@
 <a href="https://azure.microsoft.com/en-us/" target="_blank">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" style="display:inline-block;" />
 </a>
-<a href="https://www.docker.com/">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</a>
 <a href="https://www.digitalocean.com/" target="_blank"> 
          <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" style="display:inline-block;" /> 
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </a>
 
 ## 💳 Github Profile Summary Card
